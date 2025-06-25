@@ -6,3 +6,7 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+
