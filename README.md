@@ -1,28 +1,64 @@
-# 💫 About Me:
-I’m a Full-Stack Developer with a strong focus on building scalable, secure, and visually impactful web applications. I specialize in modular code architecture, rapid deployment workflows, and clean UI/UX design. My skill set spans Node.js, Express, MongoDB, EJS, and Bootstrap — with growing expertise in blockchain development. I thrive in hackathon environments and love turning real-world problems into demo-ready solutions.<br><br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ritik Rikhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Ritik Rikhi](https://www.linkedin.com/in/ritik-rikhi-93a553339/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/RITIK RIKHI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rikhiritik8@gmail.com) 
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ritik%20Rikhi!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">Aspiring Software Developer | Java & DSA Enthusiast | Full-Stack Explorer 🚀</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ritik-rikhi-93a553339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RitikRikhi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RitikRikhi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RitikRikhi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRikhi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RitikRikhi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 👨‍💻 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=RitikRikhi&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💻 Aspiring software developer with a strong foundation in **Data Structures and Algorithms**.
+- ☕ Highly skilled in **Java**, constantly building robust logic and optimizing system performance.
+- 🌱 Currently exploring and building projects in **Full-Stack Development** (Node.js, Express, JavaScript).
+- 🤝 Always eager to learn new tech, collaborate on exciting projects, and solve complex problems.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,c,cpp,git,github,vscode,postman,html,css&perline=10" alt="My Skills" />
+  </a>
+</p>
+
+<br/>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikRikhi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RitikRikhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ritik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRikhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Source Code |
+|---------|-------------|-------------|
+| 🏡 **[Rent-Root](https://github.com/RitikRikhi/Rent-Root)** | A robust web-based platform for browsing and managing rental properties. Built with Node.js, Express, and EJS. | [🔍 View Code](https://github.com/RitikRikhi/Rent-Root) |
+| 🤖 **[Ai-backend](https://github.com/RitikRikhi/Ai-backend)** | Backend implementation exploring AI integrations and advanced feature sets. | [🔍 View Code](https://github.com/RitikRikhi/Ai-backend) |
+| 📈 **[ClearTrade](https://github.com/RitikRikhi/ClearTrade)** | Modern trading platform functionalities combining intuitive design with an efficient backend architecture. | [🔍 View Code](https://github.com/RitikRikhi/ClearTrade) |
+| 🔍 **[TruthLense](https://github.com/RitikRikhi/TruthLense-RR-)** | Dynamic JavaScript project engineered to analyze information and identify fraud. | [🔍 View Code](https://github.com/RitikRikhi/TruthLense-RR-) |
+
+<br/>
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
